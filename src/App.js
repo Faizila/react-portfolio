@@ -1,20 +1,20 @@
 import './App.css';
 import Nav from './PortfolioContainer/Navbar/Navbar'
-import Profile from './PortfolioContainer/Home/Profile';
+import Profile from './PortfolioContainer/Home/Profile'
 import Aboutme from './PortfolioContainer/AboutMe/Aboutme';
-import Resume from './PortfolioContainer/Resume/Resume';
-import Portfolio from './PortfolioContainer/Portfolio/Portfolio';
-import Contact from './PortfolioContainer/ContactMe/Contact';
+// import Resume from './PortfolioContainer/Resume/Resume';
+// import Portfolio from './PortfolioContainer/Portfolio/Portfolio';
+// import Contact from './PortfolioContainer/ContactMe/Contact';
 
 function App() {
   return (
-    <div id="main">
+    <div>
       <Nav/>
       <Profile/>
       <Aboutme/>
-      <Resume/>
-      <Portfolio/>
-      <Contact/>
+      {/* <Resume/> */}
+      {/* <Portfolio/> */}
+      {/* <Contact/> */}
     </div>
   );
 }

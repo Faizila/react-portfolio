@@ -13,7 +13,7 @@ export default function Aboutme() {
 
         <div className="row">
           <div className="col-lg-4" data-aos="fade-right">
-            <img src="../../images/profile-pic.jpg" alt="picture"/>
+            <img src="../../images/profile-pic.jpg" alt="pic"/>
           </div>
           <div className="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
             <h3>Full Stack Developer</h3>
