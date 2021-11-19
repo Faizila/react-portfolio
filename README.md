@@ -16,7 +16,6 @@ https://faizila.github.io/react-portfolio/
 * Questions
 * References
 
-
 # Description
 
 * Portfolio page showcases the skills and talents to employers looking to fill a part-time or full-time position. It highlights the strongest work as well as the thought processes behind it.
@@ -75,7 +74,9 @@ If you have any other questions or comments you can contact me at:
 ## Reference
 
 https://github.com/Faizila/Updated-Professional-Portfolio
+<br>
 https://bootstrapmade.com/
+<br>
 Rice University class activities/projects
 
 
