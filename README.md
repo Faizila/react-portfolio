@@ -1,8 +1,8 @@
 # react-portfolio
 
-* This portfolio page is a collection of my work to showcase my experience, capability and potential. 
+This portfolio page is a collection of my work to showcase my experience, capability and potential. 
 
-## Link of Deployed Application
+# Link of Deployed Application
 
 https://faizila.github.io/react-portfolio/
 
@@ -36,7 +36,7 @@ https://faizila.github.io/react-portfolio/
 
 * Contact Me section has my email and phone number listed on left side of the page followed by a contact form on the right side of the page. User can also fill out the form to reach me through the portfolio page via email message.
 
-## Technologies Used
+# Technologies Used
 
 * HTML
 * CSS
@@ -46,12 +46,12 @@ https://faizila.github.io/react-portfolio/
 * Box Icons
 * Google Fonts
 
-## Built With
+# Built With
 
 * [React](https://reactjs.org/)
 * [react-typical](https://www.npmjs.com/package/react-typical)
 
-## Installation
+# Installation
 
 Run the following commands for installation:
 
@@ -63,15 +63,15 @@ npx create-react-app my-app
 npm i react-typical
 ```
 
-## Screenshots
+# Screenshots
 
-## Questions
+# Questions
 
 If you have any other questions or comments you can contact me at:
    <br>
    My GitHub: https://github.com/Faizila
 
-## Reference
+# Reference
 
 https://github.com/Faizila/Updated-Professional-Portfolio
 <br>
