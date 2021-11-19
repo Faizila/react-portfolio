@@ -4,7 +4,7 @@ import Profile from './PortfolioContainer/Home/Profile'
 import Aboutme from './PortfolioContainer/AboutMe/Aboutme';
 import Resume from './PortfolioContainer/Resume/Resume';
 import Portfolio from './PortfolioContainer/Portfolio/Portfolio';
-// import Contact from './PortfolioContainer/ContactMe/Contact';
+import Contact from './PortfolioContainer/ContactMe/Contact';
 
 function App() {
   return (
@@ -14,7 +14,7 @@ function App() {
       <Aboutme/>
       <Resume/>
       <Portfolio/>
-      {/* <Contact/> */}
+      <Contact/>
     </div>
   );
 }
