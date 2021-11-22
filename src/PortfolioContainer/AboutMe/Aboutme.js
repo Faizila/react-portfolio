@@ -1,5 +1,6 @@
 import React from "react";
 import "./Aboutme.css";
+import pic from '../../images/profile-pic.jpg';
 
 export default function Aboutme() {
   return (
@@ -13,7 +14,7 @@ export default function Aboutme() {
 
         <div className="row">
           <div className="col-lg-4" data-aos="fade-right">
-            <img src="../../images/profile-pic.jpg" alt="pic"/>
+            <img src={pic} alt="profile-pic"/>
           </div>
           <div className="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
             <h3>Full Stack Developer</h3>

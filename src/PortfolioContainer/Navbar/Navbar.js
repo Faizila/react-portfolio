@@ -1,4 +1,6 @@
 import './Navbar.css';
+import pic from '../../images/profile-pic.jpg';
+
 
 function Nav() {
   return (
@@ -7,7 +9,7 @@ function Nav() {
     <div className="d-flex flex-column">
 
       <div className="profile">
-        <img src="../../images/profile-pic.jpg" alt="Pic" className="rounded-circle"/>
+        <img src={pic} alt="Profile-Pic" className="rounded-circle"/>
         <h1 className="text-light"><a href="index.html">Faizila Amlani</a></h1>
         <div className="social-links mt-3 text-center">
           <a href="https://github.com/Faizila" className="github" target="blank"><i className="bx bxl-github"></i></a>

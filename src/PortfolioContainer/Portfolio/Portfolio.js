@@ -1,5 +1,11 @@
 import React from "react";
 import "./Portfolio.css";
+import heroku from '../../images/heroku.png';
+import mongo from '../../images/mongo.jpg';
+import node from '../../images/node.png';
+import logo4 from '../../images/logo4.png';
+import soon from '../../images/coming-soon.png';
+
 
 export default function Portfolio() {
   return (
@@ -15,7 +21,7 @@ export default function Portfolio() {
 
     <div className="col-lg-4 col-md-6 portfolio-item">
         <div className="portfolio-wrap">
-          <img src="../images/heroku.png" className="img-fluid" alt="logo"  width="60%" height="60%"/>
+          <img src={heroku} className="img-fluid" alt="logo"  width="60%" height="60%"/>
           <div className="portfolio-links">
             <a href="https://github.com/Faizila/GroupProject2" target="blank"><i className="bx bx-plus">Git Repo</i></a>
             <a href="https://floating-basin-17034.herokuapp.com/" target="blank"><i className="bx bx-link">Webpage</i></a>
@@ -30,7 +36,7 @@ export default function Portfolio() {
 
       <div className="col-lg-4 col-md-6 portfolio-item">
         <div className="portfolio-wrap">
-          <img src="../images/mongo.jpg" className="img-fluid" alt="logo"/>
+          <img src={mongo} className="img-fluid" alt="logo"/>
           <div className="portfolio-links">
             <a href="https://github.com/Faizila/Fitness-Tracker" target="blank"><i className="bx bx-link">Git Repo</i></a>
             <a href="https://frozen-island-24753.herokuapp.com/" target="blank"><i className="bx bx-link">Webpage</i></a>         
@@ -44,7 +50,7 @@ export default function Portfolio() {
 
       <div className="col-lg-4 col-md-6 portfolio-item">
         <div className="portfolio-wrap">
-          <img src="../images/logo4.png" className="img-fluid" alt="logo"/>
+          <img src={logo4} className="img-fluid" alt="logo"/>
           <div className="portfolio-links">
             <a href="https://github.com/Faizila/Work-Day-Scheduler" target="blank"><i className="bx bx-link">Git Repo</i></a>
             <a href="https://faizila.github.io/Work-Day-Scheduler/" target="blank"><i className="bx bx-link">Webpage</i></a>
@@ -58,7 +64,7 @@ export default function Portfolio() {
 
       <div className="col-lg-4 col-md-6 portfolio-item">
         <div className="portfolio-wrap">
-          <img src="../images/logo4.png" className="img-fluid" alt="logo"/>
+          <img src={logo4} className="img-fluid" alt="logo"/>
           <div className="portfolio-links">
             <a href="https://github.com/Faizila/Weather-Dashboard" target="blank"><i className="bx bx-link">Git Repo</i></a>
             <a href="https://faizila.github.io/Weather-Dashboard/" target="blank"><i className="bx bx-link">Webpage</i></a>
@@ -72,7 +78,7 @@ export default function Portfolio() {
 
       <div className="col-lg-4 col-md-6 portfolio-item">
         <div className="portfolio-wrap">
-          <img src="../images/node.png" className="img-fluid" alt="logo"/>
+          <img src={node} className="img-fluid" alt="logo"/>
           <div className="portfolio-links">
             <a href="https://github.com/Faizila/Team-Profile-Generator/blob/main/assets/Screenshots/generatedteam.JPG" target="blank"><i className="bx bx-plus">Image</i></a>
             <a href="https://github.com/Faizila/Team-Profile-Generator" target="blank"><i className="bx bx-link">Git Repo</i></a>
@@ -87,7 +93,7 @@ export default function Portfolio() {
 
       <div className="col-lg-4 col-md-6 portfolio-item">
         <div className="portfolio-wrap">
-          <img src="../images/logo3.png" className="img-fluid" alt="logo" width="65%" height="50%"/>
+          <img src={logo4} className="img-fluid" alt="logo" width="65%" height="50%"/>
           <div className="portfolio-links">
             <a href="https://github.com/Faizila/Password-Generator" target="blank"><i className="bx bx-link">Git Repo</i></a>
             <a href="https://faizila.github.io/Password-Generator/" target="blank"><i className="bx bx-link">Webpage</i></a>
@@ -101,7 +107,7 @@ export default function Portfolio() {
 
       <div className="col-lg-4 col-md-6 portfolio-item">
         <div className="portfolio-wrap">
-          <img src="../images/heroku.png" className="img-fluid" alt="logo"  width="60%" height="60%"/>
+          <img src={heroku} className="img-fluid" alt="logo"  width="60%" height="60%"/>
           <div className="portfolio-links">
             <a href="https://github.com/Faizila/Note-Taker" target="blank"><i className="bx bx-plus">Git Repo</i></a>
             <a href="https://shrouded-brushlands-22897.herokuapp.com/" target="blank"><i className="bx bx-link">Webpage</i></a>
@@ -118,7 +124,7 @@ export default function Portfolio() {
 
       <div className="col-lg-4 col-md-6 portfolio-item">
         <div className="portfolio-wrap">
-          <img src="../images/heroku.png" className="img-fluid" alt="logo"  width="60%" height="60%"/>
+          <img src={heroku} className="img-fluid" alt="logo"  width="60%" height="60%"/>
           <div className="portfolio-links">
             <a href="https://github.com/Faizila/react-portfolio" target="blank"><i className="bx bx-plus">Git Repo</i></a>
             <a href="https://faizila.github.io/react-portfolio/" target="blank"><i className="bx bx-link">Webpage</i></a>
@@ -133,9 +139,9 @@ export default function Portfolio() {
 
       <div className="col-lg-4 col-md-6 portfolio-item">
         <div className="portfolio-wrap">
-          <img src="../images/coming-soon.png" class="img-fluid" alt="logo"/>
+          <img src={soon} class="img-fluid" alt="logo"/>
           <div className="portfolio-links">
-            <a href="../images/coming-soon.png"><i className="bx bx-plus"></i></a>
+            <a href={soon}><i className="bx bx-plus"></i></a>
             <a href="#" target="blank"><i className="bx bx-link"></i></a>
             </div>
             <div>
