@@ -46,15 +46,15 @@ export default function Resume() {
       <div className="col-lg-6" data-aos="fade-up" data-aos-delay="100">
         <h3 className="resume-title">Projects</h3>
         <div className="resume-item">
-          <h4>Password Generator</h4>
-          <h5>(HTML, CSS & JavaScript)</h5>
-          <p><em>Link: https://faizila.github.io/Password-Generator/</em></p>
-            <p>Random Password Generator is a JavaScript project that can generate unique and secure passwords for the user. </p>
+          <h4>SpineX</h4>
+          <h5>(HTML, CSS, JavaScript, Bootstrap, Handlebars.js, Node.js, Express.js, MySQL, Sequelize ORM, MVC, Insomnia, Heroku)</h5>
+          <p><em>Link: https://floating-basin-17034.herokuapp.com/</em></p>
+            <p>A web application for chiropractors to help their clients manage the exercises recommended for each individual.</p>
         </div>
         <div className="resume-item">
           <h4>Team Profile Generator</h4>
           <h5>(HTML, CSS, JavaScript, jQuery, Bootstrap, Node.js, OOP, inquirer, jest)</h5>
-          <p><em>https://github.com/Faizila/Team-Profile-Generator</em></p>
+          <p><em>Link: https://github.com/Faizila/Team-Profile-Generator</em></p>
           <p>A command-line application that takes in information about employees on a software engineering team and based on user input dynamically generates an HTML webpage.</p>
         </div>
         <div className="resume-item">

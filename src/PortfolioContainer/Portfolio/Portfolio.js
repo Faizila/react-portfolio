@@ -13,16 +13,31 @@ export default function Portfolio() {
 
     <div className="row portfolio-container">
 
+    <div className="col-lg-4 col-md-6 portfolio-item">
+        <div className="portfolio-wrap">
+          <img src="../images/heroku.png" className="img-fluid" alt="logo"  width="60%" height="60%"/>
+          <div className="portfolio-links">
+            <a href="https://github.com/Faizila/GroupProject2" target="blank"><i className="bx bx-plus">Git Repo</i></a>
+            <a href="https://floating-basin-17034.herokuapp.com/" target="blank"><i className="bx bx-link">Webpage</i></a>
+            </div>
+            <div>
+              <br/>
+              <p>Group Project: SpineX</p>
+              <p>(HTML, CSS, JavaScript, Bootstrap, Handlebars.js, Node.js, Express.js, MySQL, Sequelize ORM, MVC, Insomnia, Heroku)</p>
+          </div>
+        </div>
+      </div>
+
       <div className="col-lg-4 col-md-6 portfolio-item">
         <div className="portfolio-wrap">
-          <img src="../images/logos3.png" className="img-fluid" alt="logo"/>
+          <img src="../images/mongo.jpg" className="img-fluid" alt="logo"/>
           <div className="portfolio-links">
-            <a href="https://github.com/Faizila/Password-Generator" target="blank"><i className="bx bx-link">Git Repo</i></a>
-            <a href="https://faizila.github.io/Password-Generator/" target="blank"><i className="bx bx-link">Webpage</i></a>         
+            <a href="https://github.com/Faizila/Fitness-Tracker" target="blank"><i className="bx bx-link">Git Repo</i></a>
+            <a href="https://frozen-island-24753.herokuapp.com/" target="blank"><i className="bx bx-link">Webpage</i></a>         
           </div>
           <div>
-            <p>Password Generator</p>
-            <p>(HTML, CSS & JavaScript)</p>
+            <p>Fitness Tracker</p>
+            <p>(HTML, CSS, JavaScript, MongoDB, NoSQL, ExpressJS, Bootstrap, Insomnia, Heroku)</p>
           </div>
         </div>
       </div>
@@ -72,14 +87,14 @@ export default function Portfolio() {
 
       <div className="col-lg-4 col-md-6 portfolio-item">
         <div className="portfolio-wrap">
-          <img src="../images/logo1.png" className="img-fluid" alt="logo" width="65%" height="50%"/>
+          <img src="../images/logo3.png" className="img-fluid" alt="logo" width="65%" height="50%"/>
           <div className="portfolio-links">
-            <a href="https://github.com/nskidmore7/GroupProject1" target="blank"><i className="bx bx-link">Git Repo</i></a>
-            <a href="https://nskidmore7.github.io/GroupProject1/home.html" target="blank"><i className="bx bx-link">Webpage</i></a>
+            <a href="https://github.com/Faizila/Password-Generator" target="blank"><i className="bx bx-link">Git Repo</i></a>
+            <a href="https://faizila.github.io/Password-Generator/" target="blank"><i className="bx bx-link">Webpage</i></a>
             </div>
             <div>
-            <p>Group Project: Foodie</p>
-            <p>(HTML, CSS, JavaScript, jQuery, Materialize, APIs)</p>
+            <p>Password Generator</p>
+            <p>(HTML, CSS & JavaScript)</p>
           </div>
         </div>
       </div>
@@ -99,20 +114,7 @@ export default function Portfolio() {
         </div>
       </div>
 
-      <div className="col-lg-4 col-md-6 portfolio-item">
-        <div className="portfolio-wrap">
-          <img src="../images/heroku.png" className="img-fluid" alt="logo"  width="60%" height="60%"/>
-          <div className="portfolio-links">
-            <a href="https://github.com/Faizila/GroupProject2" target="blank"><i className="bx bx-plus">Git Repo</i></a>
-            <a href="https://floating-basin-17034.herokuapp.com/" target="blank"><i className="bx bx-link">Webpage</i></a>
-            </div>
-            <div>
-              <br/>
-              <p>Group Project: SpineX</p>
-              <p>(HTML, CSS, JavaScript, Bootstrap, Handlebars.js, Node.js, Express.js, MySQL, Sequelize ORM, MVC, Insomnia, Heroku)</p>
-          </div>
-        </div>
-      </div>
+
 
       <div className="col-lg-4 col-md-6 portfolio-item">
         <div className="portfolio-wrap">
