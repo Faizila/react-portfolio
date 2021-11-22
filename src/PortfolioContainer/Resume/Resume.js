@@ -8,7 +8,7 @@ export default function Resume() {
   <div className="container">
 
     <div className="section-title">
-      <h2>Resume <a href="https://drive.google.com/file/d/1SnuqZ4Qr0x71taFBEo0pTfkReLjCozvD/view?usp=sharing" className="file-pdf" target="blank"><i className='bx bxs-file-pdf' ></i></a></h2>
+      <h2>Resume <a href="https://drive.google.com/file/d/1rA01BOBA5tVSh_7nI39QOUHfv5XAMH5B/view?usp=sharing" className="file-pdf" target="blank"><i className='bx bxs-file-pdf' ></i></a></h2>
     </div>
 
     <div className="row">
@@ -58,10 +58,10 @@ export default function Resume() {
           <p>A command-line application that takes in information about employees on a software engineering team and based on user input dynamically generates an HTML webpage.</p>
         </div>
         <div className="resume-item">
-          <h4>Workday Scheduler</h4>
-          <h5>(HTML, CSS, JavaScript, jQuery, Moment.js, Bootstrap)</h5>
-          <p><em>Link: https://faizila.github.io/Work-Day-Scheduler/</em></p>
-          <p>A simple calendar application that allows a user to save events for each working hour of the day.</p>
+          <h4>React Professional Portfolio</h4>
+          <h5>(HTML, CSS, React, react-typical npm, Bootstrap)</h5>
+          <p><em>Link: https://github.com/Faizila/react-portfolio</em></p>
+          <p>This portfolio page is a collection of my work to showcase my experience, capability and potential.</p>
         </div>
         <div className="resume-item">
           <h4>Weather Dashboard</h4>

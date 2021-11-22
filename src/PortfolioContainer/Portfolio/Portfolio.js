@@ -118,13 +118,15 @@ export default function Portfolio() {
 
       <div className="col-lg-4 col-md-6 portfolio-item">
         <div className="portfolio-wrap">
-          <img src="../images/coming-soon.png" className="img-fluid" alt="logo"/>
+          <img src="../images/heroku.png" className="img-fluid" alt="logo"  width="60%" height="60%"/>
           <div className="portfolio-links">
-            <a href="../images/coming-soon.png"><i className="bx bx-plus"></i></a>
-            <a href="#" target="blank"><i className="bx bx-link"></i></a>
+            <a href="https://github.com/Faizila/react-portfolio" target="blank"><i className="bx bx-plus">Git Repo</i></a>
+            <a href="https://faizila.github.io/react-portfolio/" target="blank"><i className="bx bx-link">Webpage</i></a>
             </div>
             <div>
-            <p>Coming Soon!</p>
+              <br/>
+              <p>React Professional Portfolio</p>
+            <p>(HTML, CSS, React, react-typical npm, Bootstrap)</p>
           </div>
         </div>
       </div>

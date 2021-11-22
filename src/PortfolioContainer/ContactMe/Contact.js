@@ -11,7 +11,7 @@ export default function Contact() {
     <h2>Contact
     <a href="https://github.com/Faizila" className="github" target="blank"><i className="bx bxl-github"></i></a>
     <a href="https://www.linkedin.com/in/faizila-amlani/" className="linkedin" target="blank"><i className="bx bxl-linkedin"></i></a>
-    <a href="https://drive.google.com/file/d/1SnuqZ4Qr0x71taFBEo0pTfkReLjCozvD/view?usp=sharing" className="file-pdf" target="blank"><i className='bx bxs-file-pdf'></i></a></h2>
+    <a href="https://drive.google.com/file/d/1rA01BOBA5tVSh_7nI39QOUHfv5XAMH5B/view?usp=sharing" className="file-pdf" target="blank"><i className='bx bxs-file-pdf'></i></a></h2>
   </div>
     <div className="row" data-aos="fade-in">
 
