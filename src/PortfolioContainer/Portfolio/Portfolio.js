@@ -6,7 +6,6 @@ import node from '../../images/node.png';
 import logo4 from '../../images/logo4.png';
 import soon from '../../images/coming-soon.png';
 
-
 export default function Portfolio() {
   return (
     <div>
@@ -36,7 +35,7 @@ export default function Portfolio() {
 
       <div className="col-lg-4 col-md-6 portfolio-item">
         <div className="portfolio-wrap">
-          <img src={mongo} className="img-fluid" alt="logo"/>
+          <img src={mongo} className="img-fluid" alt="logo" width="80%" height="80%"/>
           <div className="portfolio-links">
             <a href="https://github.com/Faizila/Fitness-Tracker" target="blank"><i className="bx bx-link">Git Repo</i></a>
             <a href="https://frozen-island-24753.herokuapp.com/" target="blank"><i className="bx bx-link">Webpage</i></a>         
@@ -50,7 +49,7 @@ export default function Portfolio() {
 
       <div className="col-lg-4 col-md-6 portfolio-item">
         <div className="portfolio-wrap">
-          <img src={logo4} className="img-fluid" alt="logo"/>
+          <img src={logo4} className="img-fluid" alt="logo" />
           <div className="portfolio-links">
             <a href="https://github.com/Faizila/Work-Day-Scheduler" target="blank"><i className="bx bx-link">Git Repo</i></a>
             <a href="https://faizila.github.io/Work-Day-Scheduler/" target="blank"><i className="bx bx-link">Webpage</i></a>
@@ -78,7 +77,7 @@ export default function Portfolio() {
 
       <div className="col-lg-4 col-md-6 portfolio-item">
         <div className="portfolio-wrap">
-          <img src={node} className="img-fluid" alt="logo"/>
+          <img src={node} className="img-fluid" alt="logo" />
           <div className="portfolio-links">
             <a href="https://github.com/Faizila/Team-Profile-Generator/blob/main/assets/Screenshots/generatedteam.JPG" target="blank"><i className="bx bx-plus">Image</i></a>
             <a href="https://github.com/Faizila/Team-Profile-Generator" target="blank"><i className="bx bx-link">Git Repo</i></a>
@@ -93,7 +92,7 @@ export default function Portfolio() {
 
       <div className="col-lg-4 col-md-6 portfolio-item">
         <div className="portfolio-wrap">
-          <img src={logo4} className="img-fluid" alt="logo" width="65%" height="50%"/>
+          <img src={logo4} className="img-fluid" alt="logo"/>
           <div className="portfolio-links">
             <a href="https://github.com/Faizila/Password-Generator" target="blank"><i className="bx bx-link">Git Repo</i></a>
             <a href="https://faizila.github.io/Password-Generator/" target="blank"><i className="bx bx-link">Webpage</i></a>
@@ -139,7 +138,7 @@ export default function Portfolio() {
 
       <div className="col-lg-4 col-md-6 portfolio-item">
         <div className="portfolio-wrap">
-          <img src={soon} class="img-fluid" alt="logo"/>
+          <img src={soon} class="img-fluid" alt="logo" width="70%" height="70%"/>
           <div className="portfolio-links">
             <a href={soon}><i className="bx bx-plus"></i></a>
             <a href="#" target="blank"><i className="bx bx-link"></i></a>
