@@ -65,6 +65,12 @@ npm i react-typical
 
 # Screenshots
 
+![01](https://user-images.githubusercontent.com/78191579/142964650-a7d17578-e3b3-48d3-9921-2ebe1d3578fd.JPG)
+![02](https://user-images.githubusercontent.com/78191579/142964656-f773c2b7-1878-42c3-8c4e-cd92c554a164.JPG)
+![03](https://user-images.githubusercontent.com/78191579/142964659-1c067b7a-5960-4fb4-89dc-a501f4cfbdb0.JPG)
+![04](https://user-images.githubusercontent.com/78191579/142964666-1374a014-f451-49a2-94d8-9fcfb5a36cf8.JPG)
+![05](https://user-images.githubusercontent.com/78191579/142964670-e8a89e2b-64c9-40a5-ae70-7181f9b2aff6.JPG)
+
 # Questions
 
 If you have any other questions or comments you can contact me at:
