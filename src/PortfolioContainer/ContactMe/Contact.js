@@ -34,7 +34,7 @@ export default function Contact() {
       </div>
 
       <div className="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
-        <form action="https://formsubmit.co/famlani88@gmail.com" method="POST" role="form" className="php-email-form">
+        <form action="/action_page.php" method="POST" role="form" className="php-email-form">
           <div className="row">
             <div className="form-group col-md-6">
               <label for="name">Your Name</label>
