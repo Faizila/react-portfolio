@@ -31,7 +31,7 @@ export default function Portfolio() {
             </div>
             <div>
               <br/>
-              <p>Group Project: SpineX</p>
+              <p>SpineX</p>
               <p>(HTML, CSS, JavaScript, Bootstrap, Handlebars.js, Node.js, Express.js, MySQL, Sequelize ORM, MVC, Insomnia, Heroku)</p>
           </div>
         </div>
@@ -87,12 +87,12 @@ export default function Portfolio() {
         <div className="portfolio-wrap">
           <img src={react} className="img-fluid" alt="logo"  width="60%" height="60%"/>
           <div className="portfolio-links">
-            <a href="https://github.com/Faizila/react-portfolio" target="blank"><i className="bx bx-plus">Git Repo</i></a>
-            <a href="https://faizila.github.io/react-portfolio/" target="blank"><i className="bx bx-link">Webpage</i></a>
+            <a href="https://github.com/Faizila/makeup-artist-webpage" target="blank"><i className="bx bx-plus">Git Repo</i></a>
+            <a href="https://faizila.github.io/makeup-artist-webpage/" target="blank"><i className="bx bx-link">Webpage</i></a>
             </div>
             <div>
               <br/>
-              <p>React Professional Portfolio</p>
+              <p>React Webpage</p>
             <p>(HTML, CSS, React, react-typical npm, Bootstrap)</p>
           </div>
         </div>
