@@ -147,6 +147,51 @@ export default function Portfolio() {
 
       <div className="col-lg-4 col-md-6 portfolio-item">
         <div className="portfolio-wrap">
+          <img src={heroku} className="img-fluid" alt="logo"  width="60%" height="60%"/>
+          <div className="portfolio-links">
+            <a href="https://github.com/Faizila/Progressive-Budget" target="blank"><i className="bx bx-plus">Git Repo</i></a>
+            <a href="https://shielded-forest-06183.herokuapp.com/" target="blank"><i className="bx bx-link">Webpage</i></a>
+            </div>
+            <div>
+              <br/>
+              <p>Online/Offline Budget Tracker</p>
+            <p>(HTML, CSS, JavaScript, Web Manifest, Service Worker, PWA, Mongoose, Bootstrap)</p>
+          </div>
+        </div>
+      </div>
+
+      <div className="col-lg-4 col-md-6 portfolio-item">
+        <div className="portfolio-wrap">
+          <img src={react} className="img-fluid" alt="logo"  width="60%" height="60%"/>
+          <div className="portfolio-links">
+            <a href="https://github.com/Faizila/react-portfolio" target="blank"><i className="bx bx-plus">Git Repo</i></a>
+            <a href="https://faizila.github.io/react-portfolio/" target="blank"><i className="bx bx-link">Webpage</i></a>
+            </div>
+            <div>
+              <br/>
+              <p>React Professional Portfolio</p>
+            <p>(HTML, CSS, React, react-typical npm, Bootstrap)</p>
+          </div>
+        </div>
+      </div>
+
+      <div className="col-lg-4 col-md-6 portfolio-item">
+        <div className="portfolio-wrap">
+          <img src={heroku} className="img-fluid" alt="logo"  width="60%" height="60%"/>
+          <div className="portfolio-links">
+            <a href="https://github.com/Faizila/Tech_Blog" target="blank"><i className="bx bx-plus">Git Repo</i></a>
+            <a href="https://mighty-bastion-50342.herokuapp.com/" target="blank"><i className="bx bx-link">Webpage</i></a>
+            </div>
+            <div>
+              <br/>
+              <p>Tech Blog</p>
+              <p>(HTML, CSS, JavaScript, Bcrypt, Handlebars.js, Node.js, Express.js, MySQL, Sequelize ORM, MVC, Insomnia, Heroku)</p>
+          </div>
+        </div>
+      </div>
+
+      <div className="col-lg-4 col-md-6 portfolio-item">
+        <div className="portfolio-wrap">
           <img src={soon} class="img-fluid" alt="logo" width="75%" height="75%"/>
           <div className="portfolio-links">
             <a href={soon}><i className="bx bx-plus"></i></a>

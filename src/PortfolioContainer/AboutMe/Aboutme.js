@@ -9,7 +9,7 @@ export default function Aboutme() {
       <div className="container">
 
         <div className="section-title">
-          <h2>About Me</h2>
+          <h2>ABOUT ME</h2>
         </div>
 
         <div className="row">
