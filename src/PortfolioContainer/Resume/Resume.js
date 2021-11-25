@@ -8,7 +8,7 @@ export default function Resume() {
   <div className="container">
 
     <div className="section-title">
-      <h2>RESUME <a href="https://drive.google.com/file/d/1rA01BOBA5tVSh_7nI39QOUHfv5XAMH5B/view?usp=sharing" className="file-pdf" target="blank"><i className='bx bxs-file-pdf' ></i></a></h2>
+      <h2>RESUME <a href="https://drive.google.com/file/d/1hhjSfImkKfXFGlFvFJeDzOtVasQKqCMf/view?usp=sharing" className="file-pdf" target="blank"><i className='bx bxs-file-pdf' ></i></a></h2>
     </div>
 
     <div className="row">
