@@ -19,9 +19,9 @@ export default function Resume() {
               <h5>August 2021 - Present</h5>
               <p><em>Freelancer</em></p>
               <ul>
-                <li>Developing web pages to client specifications.</li>
-                <li>Preparing multiple designs and wireframes for clients approval before proceeding with development.</li>
-                <li>Managing and executing multiple projects simultaneously to meet critical deadlines.</li>
+                <li>Developing web pages as per client specifications.</li>
+                <li>Prepared multiple designs and wireframes for client approval before proceeding with development.</li>
+                <li>Managed and executed multiple projects simultaneously to meet critical deadlines.</li>
               </ul>
             </div>
   
@@ -50,7 +50,6 @@ export default function Resume() {
               <li>Bootstrap</li>
               <li>GitHub</li>
               <li>MERN (MongoDB, Express, React, Node)</li>
-              <li>Apollo Server</li>
               <li>GraphQL</li>
               <li>Handlebars.js</li>
               <li>Materialize CSS</li>

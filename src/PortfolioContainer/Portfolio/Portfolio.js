@@ -92,7 +92,7 @@ export default function Portfolio() {
             </div>
             <div>
               <br/>
-              <p>React Webpage</p>
+              <p>Makeup Artist Webpage</p>
             <p>(HTML, CSS, React, react-typical npm, Bootstrap)</p>
           </div>
         </div>
