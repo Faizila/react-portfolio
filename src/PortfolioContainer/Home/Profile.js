@@ -13,14 +13,14 @@ loop={Infinity}
 steps={[
     "Full Stack Developer",
     2000,
-    "UI/UX Designer",
-    2000,
     "MERN stack Developer",
     2000,
     "React Developer",
     2000,
     "Web Developer",
     2000,  
+    "UI/UX Designer",
+    2000,
     "Enthusiastic Developer",
     2000,
 ]}
