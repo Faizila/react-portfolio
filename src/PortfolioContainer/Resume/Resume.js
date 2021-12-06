@@ -28,7 +28,7 @@ export default function Resume() {
         <h3 className="resume-title">Education</h3>
         <div className="resume-item">
           <h4>Full Stack Web Development</h4>
-          <p><em>Rice University, Houston, TX USA</em></p>
+          <p><em>Rice University, Houston, Texas USA</em></p>
           <h5>Dec 2021</h5>
           </div>
 
@@ -45,21 +45,20 @@ export default function Resume() {
           <ul>
               <li>HTML</li>
               <li>CSS</li>
-              <li>JavaScript</li> 
+              <li>JavaScript</li>
               <li>jQuery</li>
               <li>Bootstrap</li>
+              <li>Figma</li>
               <li>GitHub</li>
               <li>MERN (MongoDB, Express, React, Node)</li>
               <li>GraphQL</li>
               <li>Handlebars.js</li>
               <li>Materialize CSS</li>
               <li>API Interaction: (API, JSON, AJAX)</li>
-              <li>Chakra UI</li>
               <li>MySQL</li>
               <li>Sequelize.js</li>
               <li>NoSQL</li>
               <li>Mongoose</li>
-              <li>Jest</li>
               <li>Insomnia</li>
               <li>Heroku</li> 
               <li>Progressive Web Applications (PWAs)</li>             
