@@ -51,7 +51,8 @@ export default function Resume() {
         <h3 className="resume-title">Technical Skills</h3>
         <div className="resume-item">
           <ul>
-              <li>HTML/CSS</li>
+              <li>HTML</li>
+              <li>CSS</li>
               <li>JavaScript</li>
               <li>jQuery</li>
               <li>Bootstrap</li>
