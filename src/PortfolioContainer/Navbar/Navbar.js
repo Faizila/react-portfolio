@@ -14,7 +14,7 @@ function Nav() {
         <div className="social-links mt-3 text-center">
           <a href="https://github.com/Faizila" className="github" target="blank"><i className="bx bxl-github"></i></a>
           <a href="https://www.linkedin.com/in/faizila-amlani/" className="linkedin" target="blank"><i className="bx bxl-linkedin"></i></a>
-          <a href="https://drive.google.com/file/d/1hhjSfImkKfXFGlFvFJeDzOtVasQKqCMf/view?usp=sharing" className="file-pdf" target="blank"><i className='bx bxs-file-pdf' ></i></a>
+          <a href="https://drive.google.com/file/d/1WdnUJFJ7j3Ny0_n84lLAbas-YXlqU-kD/view?usp=sharing" className="file-pdf" target="blank"><i className='bx bxs-file-pdf' ></i></a>
         </div>
       </div>
       
