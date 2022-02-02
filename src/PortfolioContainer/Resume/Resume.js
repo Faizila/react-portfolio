@@ -19,11 +19,11 @@ export default function Resume() {
               <h5>August 2021 - Present</h5>
               <p><em>Freelancer</em></p>
               <ul>
-                <li>Developing web pages as per client specifications.</li>
+                <li>Develop web pages as per client specifications.</li>
                 <li>Create creative UI with functional designs.</li>
                 <li>Prepare and present multiple designs/concepts along with wireframes and site flow map for client review and feedback.</li>
                 <li>Develop front-end web pages with HTML, CSS, JavaScript and React.</li>
-                <li>Managed and executed multiple projects simultaneously to meet critical deadlines.</li>
+                <li>Manage and execute multiple projects simultaneously to meet critical deadlines.</li>
               </ul>
             </div>
   
@@ -51,8 +51,7 @@ export default function Resume() {
         <h3 className="resume-title">Technical Skills</h3>
         <div className="resume-item">
           <ul>
-              <li>HTML</li>
-              <li>CSS</li>
+              <li>HTML/CSS</li>
               <li>JavaScript</li>
               <li>jQuery</li>
               <li>Bootstrap</li>
@@ -64,12 +63,10 @@ export default function Resume() {
               <li>InVision</li>
               <li>Materialize CSS</li>
               <li>UX Research</li>
-              <li>MySQL</li>
-              <li>NoSQL</li>
+              <li>MySQL/NoSQL</li>
               <li>Responsive Web Design</li>
               <li>Journey Mapping</li>
-              <li>User Interface Design</li> 
-              <li>Progressive Web Applications (PWAs)</li>             
+              <li>User Interface Design</li>         
             </ul>
           </div>
       </div>

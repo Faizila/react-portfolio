@@ -17,7 +17,7 @@ export default function Aboutme() {
             <img src={pic} alt="profile-pic"/>
           </div>
           <div className="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
-            <h3>Full Stack Developer</h3>
+            <h3>Web Developer</h3>
         <br/>
             <div className="row">
               <div className="col-lg-6">
@@ -34,9 +34,9 @@ export default function Aboutme() {
             <br/>
             <div>
             <ul>
-              <li>• Knowledgeable full stack Web Developer.</li>
-              <li>• High energy confident professional with passion for technology.</li>
-              <li>• Capable of comprehending ideas and integrating them into desired results.</li>
+              <li>• An enthusiastic UI/UX designer with full stack developer skills.</li>
+              <li>• High energy confident professional with passion for technology and designing.</li>
+              <li>• A creative thinker who is capable of implementing innovative solutions and articulating them to the wider audience.</li>
               <li>• Capable of balancing multiple projects at a time in a fast-paced environment.</li>
               <li>• Flexible to work in both team and self-directed environments.</li>
                   </ul>
